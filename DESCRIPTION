@@ -7,7 +7,7 @@ Maintainer: Jari Oksanen <jari.oksanen@oulu.fi>
 Description: Functions to aid understanding ecological models for
   Ecology 101 level, principally based on Krebs textbook on Ecology, but
   with sidetracks to other basic textbook models.
-Depends: primer
-Imports: deSolve
+Depends:
+Imports: deSolve, primer
 License: MIT + file LICENCE
 URL: http://cc.oulu.fi/~jarioksa/
